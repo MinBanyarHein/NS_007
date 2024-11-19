@@ -1,0 +1,27 @@
+body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #8a5586;
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.sub-navbar {
+  height: 50px;
+  background-color: #7d3a8d;
+}
+
+.content {
+  height: 400px;
+  background-color: #fff;
+}
+
+button {
+  background-color: #7d3a8d;
+  color: #ffffff;
+}
