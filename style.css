@@ -1,27 +1,33 @@
+#first-cont,
+#second-cont {
+  background-color: #cb9ae6;
+}
 body {
   background-color: #fff;
   margin: 0;
 }
 
 .navbar {
-  background-color: #8a5586;
+  background-color: #b790b4;
 }
 
 .navbar-nav .nav-link {
-  color: #fff !important;
+  color: #ffffff;
 }
 
 .sub-navbar {
   height: 50px;
-  background-color: #7d3a8d;
+  background-color: #cb9ae6;
 }
 
 .content {
   height: 400px;
   background-color: #fff;
 }
-
-button {
-  background-color: #7d3a8d;
-  color: #ffffff;
+.footer-bar {
+  background-color: #cb9ae6;
+  height: 70px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
 }
